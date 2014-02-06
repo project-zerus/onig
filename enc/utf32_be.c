@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  */
 
-#include "regenc.h"
+#include "../regenc.h"
 
 static int
 utf32be_mbc_enc_len(const UChar* p ARG_UNUSED)

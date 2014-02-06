@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  */
 
-#include "regenc.h"
+#include "../regenc.h"
 
 #define USE_INVALID_CODE_SCHEME
 

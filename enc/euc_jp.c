@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  */
 
-#include "regint.h"
+#include "../regint.h"
 
 #define eucjp_islead(c)    ((UChar )((c) - 0xa1) > 0xfe - 0xa1)
 
