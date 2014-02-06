@@ -22,6 +22,7 @@ cc_library(
 
 cc_binary(
     name = 'testu',
+    warning = 'no',
     srcs = [
         'testu.c',
     ],
